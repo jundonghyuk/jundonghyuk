@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 1. 소개
-### 이름: 전동혁
-<br>
-- 오늘보다 내일이 기대되는 개발자😄
+- 오늘보다 내일이 더 기대되는 개발자😄
 
  
