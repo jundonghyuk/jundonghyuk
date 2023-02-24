@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jundonghyuk/jundonghyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱소개
-전동혁
-오늘보다 내일이 기대되는 개발자😄
+# 1. 소개
+### 이름: 전동혁
+<br>
+- 오늘보다 내일이 기대되는 개발자😄
+
  
