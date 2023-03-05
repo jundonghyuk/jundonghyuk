@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 우아한테크코스 5th BE 하디
+- 고려대학교 (1전공: 생명공학부, 2전공: 융합보안학과)
 - 오늘보다 내일이 더 기대되는 개발자😄
 
  
